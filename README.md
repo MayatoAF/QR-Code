@@ -1,2 +1,2 @@
-# qr-code
+# QR-Code
 Criador de QR-Code
